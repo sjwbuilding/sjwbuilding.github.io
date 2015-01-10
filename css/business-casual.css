@@ -190,3 +190,9 @@ footer p {
         clear: both;
     }
 }
+
+.parent-container>a>img {
+  padding: 10px 5px;
+  width: 100px;
+  height: 100px;
+}
